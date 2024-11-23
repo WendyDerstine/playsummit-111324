@@ -119,7 +119,7 @@
           "d8aa73e1c2754eeebb9d333925e51952"
         ],
         "createdAt": "2023-06-29T10:20:06.611Z",
-        "stagedAt": "2023-08-02T09:18:50.9Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-02T09:20:37.689Z",
         "modifiedAt": "2024-11-19T18:54:13.837Z",
         "modifiedBy": {
@@ -130,19 +130,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "FnbXCgP1cr",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-11-19T18:54:13.41Z",
-            "modifiedAt": "2024-11-19T18:54:13.41Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -364,24 +352,36 @@
         "collectionId": "2kDkq3aAw3",
         "name": "Countdown Banner",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
         "stagedAt": "2023-08-03T12:33:41.827Z",
-        "publishedAt": "2023-08-03T12:33:41.827Z",
-        "modifiedAt": "2023-08-03T12:33:41.827Z",
+        "publishedAt": "2023-08-03T12:33:23.486Z",
+        "modifiedAt": "2024-11-21T22:44:40.797Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "AopQJ8Q0yN",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-11-21T22:44:38.767Z",
+            "modifiedAt": "2024-11-21T22:44:38.767Z"
+          }
+        ]
       }
     ]
   },
@@ -410,43 +410,7 @@
         "createdAt": "2023-11-15T17:27:04.26Z",
         "stagedAt": null,
         "publishedAt": "2023-11-16T18:10:05.908Z",
-        "modifiedAt": "2024-11-14T00:09:24.126Z",
-        "modifiedBy": {
-          "id": "6387c3e21179b065497e9605",
-          "name": "Wendy Derstine",
-          "email": "wendy.derstine@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
-          "givenName": "Wendy",
-          "familyName": "Derstine"
-        },
-        "bundles": []
-      }
-    ]
-  },
-  {
-    "libraryId": "generated",
-    "id": "WjGcPzy7Wg",
-    "name": "Demo 2",
-    "isDefault": false,
-    "orderIdx": "",
-    "createdAt": "2024-11-14T17:01:45.297Z",
-    "modifiedAt": "2024-11-14T17:01:45.297Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "e_01M059Pk",
-        "collectionId": "WjGcPzy7Wg",
-        "name": "Demo 2",
-        "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 0,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2024-11-19T18:51:52.341Z",
-        "stagedAt": null,
-        "publishedAt": null,
-        "modifiedAt": "2024-11-19T18:52:57.04Z",
+        "modifiedAt": "2024-11-21T22:41:24.707Z",
         "modifiedBy": {
           "id": "6387c3e21179b065497e9605",
           "name": "Wendy Derstine",
@@ -459,13 +423,61 @@
           {
             "id": "responsive",
             "libraryId": "generated",
-            "componentId": "e_01M059Pk",
+            "componentId": "TlH-4IjNyG",
             "name": "Default bundle",
             "description": "",
             "breakpoints": {},
             "orderIdx": "",
-            "createdAt": "2024-11-19T18:52:02.107Z",
-            "modifiedAt": "2024-11-19T18:52:02.107Z"
+            "createdAt": "2024-11-21T22:41:06.483Z",
+            "modifiedAt": "2024-11-21T22:41:06.483Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "libraryId": "generated",
+    "id": "WjGcPzy7Wg",
+    "name": "Demo Collection",
+    "isDefault": false,
+    "orderIdx": "",
+    "createdAt": "2024-11-14T17:01:45.297Z",
+    "modifiedAt": "2024-11-14T17:01:45.297Z",
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "Sb2Nn_YOtl",
+        "collectionId": "WjGcPzy7Wg",
+        "name": "Demo 1",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-11-22T19:19:54.336Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2024-11-22T19:27:03.019Z",
+        "modifiedBy": {
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "Sb2Nn_YOtl",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-11-22T19:20:01.616Z",
+            "modifiedAt": "2024-11-22T19:20:01.616Z"
           }
         ]
       }

@@ -80,41 +80,8 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{0B329ADD-9ED7-47E2-AF18-18E5BE7AD426}"
-              p:before="*"
-              s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
-              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7BF2F5520E-36F0-4D8A-B4E6-35E0EDC712F1%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
-              s:ph="/headless-main/container-4">
-              <rls>
-                <ruleset
-                  s:pet="true">
-                  <rule
-                    uid="{7AC27532-27AE-4201-B2AB-10D2D024F825}"
-                    s:name="468676b00a584f7194a6f2b40652f04b">
-                    <conditions>
-                      <condition
-                        uid="CD808D85BAF3429D83DD7254B11AC5F5"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="468676b00a584f7194a6f2b40652f04b" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{762C3B9B-D935-44E2-8904-2771EEED9F88}"
-                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="573A3C121D44491BAA2564A0055DD77C"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                  </rule>
-                </ruleset>
-              </rls>
+              uid="{1802256F-1B3D-4008-8DEC-ADC7547594C6}">
+              <p:d />
             </r>
             <r
               uid="{68D3ED19-2AA1-40EE-88DA-37201A1A7C1F}"
@@ -129,8 +96,8 @@ Languages:
       Value: Demo 1
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b7189b93-9f36-434e-b080-96c22b0f1d1e"
+      Value: "d55240ad-ab70-48be-99f2-916057897834"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.</p><p>&nbsp;</p><figure class="image"><img style="aspect-ratio:1200/717;" src="https://wenxmc.sitecoresandbox.cloud/api/public/content/fcb46485bba9475abde474b8cd1a5a35?v=302260b3" alt="Cycling group" width="1200" height="717" /></figure></div>
+        <div class="ck-content"><p>Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.</p></div>

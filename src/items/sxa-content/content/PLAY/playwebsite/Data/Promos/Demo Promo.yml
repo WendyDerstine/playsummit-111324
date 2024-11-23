@@ -10,24 +10,24 @@ Languages:
     Fields:
     - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
       Hint: PromoText2
-      Value: Sed commodo eu ex ut consequat. Sed consectetur, magna a gravida convallis, turpis sem egestas.
+      Value: <p>Sed commodo eu ex ut consequat. Sed consectetur, magna a gravida convallis, turpis sem egestas.</p>
     - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
       Hint: PromoText
-      Value: In massa augue, lacinia sed imperdiet vel, fringilla id enim. Maecenas mattis, metus id efficitur porta.
+      Value: <p>In massa augue, lacinia sed imperdiet vel, fringilla id enim. Maecenas mattis, metus id efficitur porta.</p>
     - ID: "739c6cc2-0031-463d-9599-13478fd50ee3"
       Hint: PromoIcon2
       Value: |
         <image mediaid="{CCAA3DA2-F72A-4AED-8B44-674BBD9DC5A6}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "218de3e4-b4f5-4897-aafe-0c6ee6c32839"
+      Value: "0540006d-f311-40fd-a12b-2f992b8c2699"
     - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
       Hint: PromoText3
-      Value: Sed commodo eu ex ut consequat. Sed consectetur, magna a gravida convallis, turpis sem egestas.
+      Value: <p>Sed commodo eu ex ut consequat. Sed consectetur, magna a gravida convallis, turpis sem egestas.</p>
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
-        <link text="Book tickets" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A7BDFBDA-D5CC-5388-A039-F262BC768721}" />
+        <link id="{A7BDFBDA-D5CC-5388-A039-F262BC768721}" text="Book tickets" title="" querystring="" anchor="" target="" linktype="internal"/>
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |

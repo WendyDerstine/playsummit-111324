@@ -104,52 +104,20 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{1802256F-1B3D-4008-8DEC-ADC7547594C6}"
-              s:pt="personalizationTest"
-              s:uid="{1802256F-1B3D-4008-8DEC-ADC7547594C6}">
-              <p:da
-                name="ccb" />
-              <rls>
-                <ruleset
-                  s:pet="true">
-                  <rule
-                    uid="{539FEB5F-763B-41E8-B6DA-B33E23AAA0A3}"
-                    s:name="f4be45d0cca1450e80584383cad018dc">
-                    <conditions>
-                      <condition
-                        uid="C1FC67B7D0864E86BD063527B63C2707"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="f4be45d0cca1450e80584383cad018dc" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{3ABF789A-2F8F-46B1-9BFF-F8DC2530CA99}"
-                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="C0436408F6FB4075B667BFDC403DE6E1"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
-            <r
-              uid="{A31E698E-33F2-402A-A839-DBB403B42B32}">
+              uid="{1802256F-1B3D-4008-8DEC-ADC7547594C6}">
               <p:d />
             </r>
             <r
               uid="{4BF36DD1-CFCA-42AD-A036-B855634C16C3}"
-              p:after="r[@uid='{1802256F-1B3D-4008-8DEC-ADC7547594C6}']"
+              p:before="*"
               s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7BF2F5520E-36F0-4D8A-B4E6-35E0EDC712F1%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
               s:ph="/headless-main/container-4" />
+            <r
+              uid="{A31E698E-33F2-402A-A839-DBB403B42B32}">
+              <p:d />
+            </r>
             <r
               uid="{2AF49F79-A9F2-4B50-BA8C-AA07FE651024}">
               <p:da
@@ -194,7 +162,7 @@ Languages:
       Value: "z-demo"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2bf6293b-3fd2-4626-8fcf-b8066d23703a"
+      Value: "68721164-7a7d-4990-b271-8aa679da0d81"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
