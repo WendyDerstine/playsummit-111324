@@ -4,8 +4,8 @@
   "ref": "9501b86d-2e20-4116-9b47-a1c4af5427fe",
   "name": "embedded_{scope}_dd7333e4229b47698d81a2dd8e147647_en",
   "modifiedByRef": "Ub7x6sEoPLwXjVuenV6Knbn8KanIQMNf@clients",
-  "modifiedAt": "2024-11-21T14:50:21.976Z",
-  "revision": 4,
+  "modifiedAt": "2024-12-03T15:19:00.536Z",
+  "revision": 6,
   "archived": false,
   "friendlyId": "embedded_{scope}_dd7333e4229b47698d81a2dd8e147647_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-11-21T14:50:21.992Z",
+    "modifiedAt": "2024-12-03T15:19:00.564Z",
     "splits": [
       {
         "template": "{\"variantId\": \"df6b0c4527be441ebef9f5fe0d41a1eb\"}",
@@ -57,7 +57,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "0947f2a0-f628-47bb-93d8-5bc21b9513d2",
+      "ref": "c94e4473-2208-4e06-b211-1c1ebe91f4a8",
       "name": "Demo Variant",
       "tasks": [
         {

@@ -2,7 +2,7 @@
 ID: "6945be2d-5b59-4438-bf7f-7c76388b5ad6"
 Parent: "4d587c56-3717-41cb-936c-5d0412a50b6b"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Demo 1 test copy"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Demo 3"
 BranchID: "6c07c9a2-87c4-418f-aa22-9e5d6c382e9e"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
@@ -66,6 +66,10 @@ SharedFields:
   Value: "{C2FFB2D6-2015-41FE-95C5-18DA73F9760A}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Demo 3
   Versions:
   - Version: 1
     Fields:
@@ -86,13 +90,6 @@ Languages:
             <r
               uid="{68D3ED19-2AA1-40EE-88DA-37201A1A7C1F}"
               s:par="CacheClearingBehavior=Clear%20on%20publish" />
-            <r
-              uid="{F099122F-17DE-4B45-A78D-E39AADEB44A9}"
-              p:after="*[1=2]"
-              s:ds="b8d0a3df-ce65-4109-89fd-ed43d2f9ae40"
-              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
-              s:ph="/headless-main/container-4" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -103,7 +100,7 @@ Languages:
       Value: Demo 1
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "50395470-1001-48fa-9e7a-01ac91518b3b"
+      Value: "8c295bd7-3fea-408b-987a-3de70974c7f2"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |

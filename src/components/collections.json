@@ -7,33 +7,7 @@
     "orderIdx": "",
     "createdAt": "2023-03-06T08:07:37.932Z",
     "modifiedAt": "2023-03-06T08:07:37.932Z",
-    "components": [
-      {
-        "libraryId": "generated",
-        "id": "qvMQH7z3cX",
-        "collectionId": "default",
-        "name": "Demo",
-        "description": "",
-        "status": "changed",
-        "versionCount": 1,
-        "stagedVersionCount": 0,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2024-11-14T00:05:57.652Z",
-        "stagedAt": null,
-        "publishedAt": null,
-        "modifiedAt": "2024-11-14T00:09:21.472Z",
-        "modifiedBy": {
-          "id": "6387c3e21179b065497e9605",
-          "name": "Wendy Derstine",
-          "email": "wendy.derstine@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
-          "givenName": "Wendy",
-          "familyName": "Derstine"
-        },
-        "bundles": []
-      }
-    ]
+    "components": []
   },
   {
     "libraryId": "generated",
@@ -358,7 +332,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": "2023-08-03T12:33:41.827Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-03T12:33:23.486Z",
         "modifiedAt": "2024-11-21T22:44:40.797Z",
         "modifiedBy": {
@@ -369,19 +343,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "AopQJ8Q0yN",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-11-21T22:44:38.767Z",
-            "modifiedAt": "2024-11-21T22:44:38.767Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -428,8 +390,8 @@
             "description": "",
             "breakpoints": {},
             "orderIdx": "",
-            "createdAt": "2024-11-21T22:41:06.483Z",
-            "modifiedAt": "2024-11-21T22:41:06.483Z"
+            "createdAt": "2024-12-04T15:38:32.509Z",
+            "modifiedAt": "2024-12-04T15:38:32.509Z"
           }
         ]
       }
@@ -467,19 +429,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "Sb2Nn_YOtl",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-11-22T19:20:01.616Z",
-            "modifiedAt": "2024-11-22T19:20:01.616Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }

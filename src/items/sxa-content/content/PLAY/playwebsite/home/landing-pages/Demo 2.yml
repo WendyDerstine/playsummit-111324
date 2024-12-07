@@ -100,38 +100,6 @@ Languages:
                 name="ccb" />
             </r>
             <r
-              uid="{1B7D12B4-590B-453A-8EDA-1DF00BDB7014}">
-              <rls>
-                <ruleset
-                  s:pet="true">
-                  <rule
-                    uid="{457D2A1B-24EC-40E3-8714-0496935EA3D9}"
-                    s:name="e4cc4a5003d84b30ad3c752fc8d33e96">
-                    <conditions>
-                      <condition
-                        uid="E933DFC7B34B4DBDB69CD5C28A4DD466"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="e4cc4a5003d84b30ad3c752fc8d33e96" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{6195BC6B-24D6-4796-918E-DBED7AF981F4}"
-                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="A3EDCA614D9D4E2BB2B05E7ABB38E704"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
-            <r
               uid="{0ADC511C-704E-4507-99F4-F12996A73E19}">
               <p:da
                 name="ccb" />
@@ -146,7 +114,7 @@ Languages:
       Value: Demo 2
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "121b100a-dd73-4b8e-bb3b-da206733aea7"
+      Value: "e704bc79-d6b0-46f5-b629-c6083afa23d9"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
