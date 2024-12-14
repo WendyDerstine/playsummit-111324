@@ -1,13 +1,13 @@
 {
   "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/c3b5cde9-6a2d-47f3-9858-944dd16d37f5",
-  "ref": "c3b5cde9-6a2d-47f3-9858-944dd16d37f5",
-  "name": "embedded_{scope}_dd7333e4229b47698d81a2dd8e147647_en",
-  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-12-11T16:03:34.46Z",
-  "revision": 4,
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/41c809e5-158b-4d28-9e4c-30e9d88f017f",
+  "ref": "41c809e5-158b-4d28-9e4c-30e9d88f017f",
+  "name": "embedded_{scope}_f504d323e651421f94de69f5eed4cb78_en",
+  "modifiedByRef": "auth0|6387c3e21179b065497e9605",
+  "modifiedAt": "2024-11-14T00:00:16.859Z",
+  "revision": 2,
   "archived": false,
-  "friendlyId": "embedded_{scope}_dd7333e4229b47698d81a2dd8e147647_en",
+  "friendlyId": "embedded_{scope}_f504d323e651421f94de69f5eed4cb78_en",
   "type": "INTERACTIVE_API_FLOW",
   "subtype": "EXPERIENCE",
   "channels": [
@@ -21,10 +21,10 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-12-11T16:03:34.529Z",
+    "modifiedAt": "2024-11-14T00:00:17Z",
     "splits": [
       {
-        "template": "{\"variantId\": \"df6b0c4527be441ebef9f5fe0d41a1eb\"}",
+        "template": "{\"variantId\": \"f4be45d0cca1450e80584383cad018dc\"}",
         "variantName": "Demo Variant",
         "audienceName": "Demo Variant",
         "conditionGroups": [
@@ -57,7 +57,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "4ef102d0-4637-4cc1-8ada-0e4362461bba",
+      "ref": "73de39e4-62b0-40a4-8761-2788f4b70f00",
       "name": "Demo Variant",
       "tasks": [
         {
@@ -65,7 +65,7 @@
           "input": {
             "inputType": "templateRenderTaskInput",
             "type": "application/json",
-            "template": "{\"variantId\": \"df6b0c4527be441ebef9f5fe0d41a1eb\"}"
+            "template": "{\"variantId\": \"f4be45d0cca1450e80584383cad018dc\"}"
           }
         },
         {
@@ -90,10 +90,10 @@
   "status": "PRODUCTION",
   "schedule": {
     "type": "simpleSchedule",
-    "startDate": "2024-11-14T16:46:41.565Z"
+    "startDate": "2024-11-13T23:58:56.925Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/c3b5cde9-6a2d-47f3-9858-944dd16d37f5/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/41c809e5-158b-4d28-9e4c-30e9d88f017f/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,

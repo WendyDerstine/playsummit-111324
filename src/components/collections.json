@@ -381,19 +381,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TlH-4IjNyG",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-04T15:38:32.509Z",
-            "modifiedAt": "2024-12-04T15:38:32.509Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
