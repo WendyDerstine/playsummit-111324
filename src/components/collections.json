@@ -332,8 +332,8 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": null,
-        "publishedAt": "2023-08-03T12:33:23.486Z",
+        "stagedAt": "2024-11-21T22:44:40.796Z",
+        "publishedAt": "2024-11-21T22:44:40.796Z",
         "modifiedAt": "2024-11-21T22:44:40.797Z",
         "modifiedBy": {
           "id": "6387c3e21179b065497e9605",
@@ -343,7 +343,19 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "AopQJ8Q0yN",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-19T14:39:07.388Z",
+            "modifiedAt": "2024-12-19T14:39:07.388Z"
+          }
+        ]
       }
     ]
   },
@@ -381,7 +393,19 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "TlH-4IjNyG",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-19T15:30:33.771Z",
+            "modifiedAt": "2024-12-19T15:30:33.771Z"
+          }
+        ]
       }
     ]
   },
@@ -396,19 +420,19 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "Sb2Nn_YOtl",
+        "id": "oEDa__AATF",
         "collectionId": "WjGcPzy7Wg",
-        "name": "Demo 1",
+        "name": "Demo 2",
         "description": "",
-        "status": "changed",
+        "status": "published",
         "versionCount": 1,
-        "stagedVersionCount": 0,
+        "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
         "datasourceIds": [],
-        "createdAt": "2024-11-22T19:19:54.336Z",
-        "stagedAt": null,
-        "publishedAt": null,
-        "modifiedAt": "2024-11-22T19:27:03.019Z",
+        "createdAt": "2024-12-19T15:27:02.761Z",
+        "stagedAt": "2024-12-19T15:28:45.452Z",
+        "publishedAt": "2024-12-19T15:28:45.452Z",
+        "modifiedAt": "2024-12-19T15:28:45.452Z",
         "modifiedBy": {
           "id": "6387c3e21179b065497e9605",
           "name": "Wendy Derstine",
@@ -417,7 +441,56 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "oEDa__AATF",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-19T15:27:11.629Z",
+            "modifiedAt": "2024-12-19T15:27:11.629Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
+        "id": "mXD2TvWaIP",
+        "collectionId": "WjGcPzy7Wg",
+        "name": "Demo 1",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-12-18T18:21:16.876Z",
+        "stagedAt": "2024-12-18T18:27:37.569Z",
+        "publishedAt": "2024-12-18T18:27:37.569Z",
+        "modifiedAt": "2024-12-18T18:27:37.569Z",
+        "modifiedBy": {
+          "id": "6387c3e21179b065497e9605",
+          "name": "Wendy Derstine",
+          "email": "wendy.derstine@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/0d4ca3b23a68587de6fd28fc9e4829d2?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fwe.png",
+          "givenName": "Wendy",
+          "familyName": "Derstine"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "mXD2TvWaIP",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-18T18:22:00.471Z",
+            "modifiedAt": "2024-12-18T18:22:00.471Z"
+          }
+        ]
       }
     ]
   }

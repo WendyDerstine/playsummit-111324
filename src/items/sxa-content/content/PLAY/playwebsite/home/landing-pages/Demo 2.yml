@@ -93,7 +93,38 @@ Languages:
               s:ds="fd7577f1-e744-4f0b-9052-684674fa90a0"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B0E59FDE5-1A8B-4967-8E4B-8E16DCB80939%7D&amp;Styles=%7C%7BF2F5520E-36F0-4D8A-B4E6-35E0EDC712F1%7D%7C%7B87E4CA1A-14C9-4D44-BD3C-898909EAB561%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
-              s:ph="/headless-main/container-5" />
+              s:ph="/headless-main/container-5">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{A8DF688B-E191-4FCF-AD10-C298A107CDED}"
+                    s:name="6cc9093d9f8b40c192fdf92037bd353e_07dde62362c743438c653be982372e9e">
+                    <conditions>
+                      <condition
+                        uid="F319BBB01EE74FAF98B71C451C683723"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="6cc9093d9f8b40c192fdf92037bd353e_07dde62362c743438c653be982372e9e" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{A821590E-D484-4010-A00B-8B53B600D165}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="4029b0b0-2fb9-4a55-9ef4-46608ded59fb" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="18D0A6B086554581A468D56236C636F5"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{C27FD4E9-75A2-4A33-9834-858BCA11AAF6}">
               <p:da
@@ -114,7 +145,7 @@ Languages:
       Value: Demo 2
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e704bc79-d6b0-46f5-b629-c6083afa23d9"
+      Value: "a6e46714-95a9-496e-b700-d9df496bf519"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: |
