@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/b0776ce1-f067-4fbb-9770-37618a8ed57e",
   "ref": "b0776ce1-f067-4fbb-9770-37618a8ed57e",
   "name": "embedded_{scope}_f9eeb0af595147fca3b005a91a43bbce_en",
-  "modifiedByRef": "auth0|6387c3e21179b065497e9605",
-  "modifiedAt": "2024-12-19T15:38:43.398Z",
-  "revision": 7,
+  "modifiedByRef": "Ub7x6sEoPLwXjVuenV6Knbn8KanIQMNf@clients",
+  "modifiedAt": "2025-01-20T16:20:57.205Z",
+  "revision": 9,
   "archived": false,
   "friendlyId": "embedded_{scope}_f9eeb0af595147fca3b005a91a43bbce_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-12-19T15:38:43.521Z",
+    "modifiedAt": "2025-01-20T16:20:57.226Z",
     "splits": [
       {
         "template": "{\"variantId\": \"1985deeba5684afd9fb813018a8e353b\"}",
@@ -57,7 +57,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "07c3d8db-3553-4873-873c-5d2e4c454ba9",
+      "ref": "1005260b-3459-4e28-85bd-52c82a35e801",
       "name": "Dec Special",
       "tasks": [
         {

@@ -343,19 +343,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "AopQJ8Q0yN",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-19T14:39:07.388Z",
-            "modifiedAt": "2024-12-19T14:39:07.388Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -393,19 +381,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TlH-4IjNyG",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-19T15:30:33.771Z",
-            "modifiedAt": "2024-12-19T15:30:33.771Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -441,19 +417,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "oEDa__AATF",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-19T15:27:11.629Z",
-            "modifiedAt": "2024-12-19T15:27:11.629Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -478,19 +442,7 @@
           "givenName": "Wendy",
           "familyName": "Derstine"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "mXD2TvWaIP",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-18T18:22:00.471Z",
-            "modifiedAt": "2024-12-18T18:22:00.471Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
